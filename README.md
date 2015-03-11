@@ -1,2 +1,2 @@
-# gitSQL---SQL-Server
+# gitSQL
 SQL Server Edition
