@@ -1,6 +1,6 @@
 ##What is gitSQL?
 
-gitSQL is a *free front end GUI for scripting out SQL objects into Flat File for use with Source Control such as GIT.
+gitSQL is a free front end GUI for scripting out SQL objects into Flat File for use with Source Control such as GIT.
 
 ##What does it do exactly?
 
@@ -12,3 +12,12 @@ Yes - it does. Data can be scripted out into static data files. These files can 
 
 ### Download
 See Releases for a Binary Download or visit http://www.gitsql.net/download
+
+### Documentation
+http://www.gitsql.net/documentation
+
+### Reporting Bugs
+Please log issues here on github
+
+### Technical Support
+http://www.gitsql.net/login
