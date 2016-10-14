@@ -1,3 +1,5 @@
+# SQL-Server-Edition
+
 ##What is gitSQL?
 
 gitSQL is a free front end GUI for scripting out SQL objects into Flat File for use with Source Control such as GIT.
