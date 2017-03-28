@@ -13,13 +13,13 @@ Under the hood; gitSQL discovers database objects and then scripts them out usin
 Yes - it does. Data can be scripted out into static data files. These files can then be imported into a database.
 
 ### Download
-Visit http://www.gitsql.net/download
+Visit https://gitsql.net/download
 
 ### Documentation
-http://www.gitsql.net/documentation
+https://gitsql.net/documentation
 
 ### Reporting Bugs
 Please log issues here on github
 
 ### Technical Support
-http://www.gitsql.net/login
+https://gitsql.net/login
